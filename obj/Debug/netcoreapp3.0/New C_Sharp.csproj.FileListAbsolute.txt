@@ -1,0 +1,11 @@
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.exe
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.deps.json
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.runtimeconfig.json
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.runtimeconfig.dev.json
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.dll
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\bin\Debug\netcoreapp3.0\New C_Sharp.pdb
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\obj\Debug\netcoreapp3.0\New C_Sharp.csprojAssemblyReference.cache
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\obj\Debug\netcoreapp3.0\New C_Sharp.AssemblyInfoInputs.cache
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\obj\Debug\netcoreapp3.0\New C_Sharp.AssemblyInfo.cs
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\obj\Debug\netcoreapp3.0\New C_Sharp.dll
+D:\Stadying Files\C#\New C_Sharp\New C_Sharp\obj\Debug\netcoreapp3.0\New C_Sharp.pdb

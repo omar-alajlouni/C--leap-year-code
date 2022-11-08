@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BlackHole\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BlackHole\\.nuget\\packages"
+    ]
+  }
+}
